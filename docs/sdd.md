@@ -1,0 +1,76 @@
+# Software Design Document (SDD) - `votive-svc-agent`
+
+<center>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/eldencat/terraform/raw/main/src/shared/eldencat-banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/eldencat/terraform/raw/main/src/shared/eldencat-banner.png">
+  <img alt="Eldencat logo in light and dark." style="height:300px" src="https://github.com/eldencat/terraform/raw/main/src/shared/eldencat-banner.png">
+</picture>
+
+</center>
+
+:exclamation: This document is intended for internal use.
+
+## :telescope: Overview
+
+This document details the software implementation of :construction:.
+
+This process is responsible for :construction:
+
+## :books: Related Documents
+
+Document | Description
+--- | ---
+:construction: Requirements & User Stories - `votive-svc-agent` :construction: | Requirements and user stories
+[Concept of Operations (CONOPS) - `votive-svc-agent`](./conops.md) | Module overview
+[Interface Control Document (ICD) - `votive-svc-agent`](./icd.md) | Overview of this module's inputs and outputs
+:construction: High-Level Interface Control Document (ICD) :construction: | Interfaces shared by all microservices.
+## Module Attributes
+
+Attribute | Applies | Explanation
+--- | --- | ---
+
+## :globe_with_meridians: Global Variables
+
+:construction:
+
+## :robot: Logic
+
+### :seedling: Initialization
+
+:construction:
+
+### :recycle: Control Loop
+
+:construction:
+
+### :broom: Cleanup
+
+:construction:
+
+## :handshake: Interfaces
+
+```mermaid
+graph LR
+    subgraph Client Domain
+        app(App X)
+    end
+    subgraph Server Domain
+        module[Module A]
+    end
+```
+
+:construction: description of the graph.
+
+## :heavy_check_mark: Tests
+
+:construction:
+
+### :tulip: Unit Tests
+
+:construction:
+
+### :bouquet: Integration Tests
+
+:construction:
